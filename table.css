@@ -1,0 +1,20 @@
+table th {
+  background: lawngreen;
+  padding: 10px;
+}
+
+table td {
+  padding: 40px;
+  margin: 0;
+}
+
+table td:hover {
+  background: gray;
+}
+
+.stick ul li {
+  display: inline;
+  padding: 10px;
+  background: lawngreen;
+  position: sticky;
+}
